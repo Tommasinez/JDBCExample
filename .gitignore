@@ -1,0 +1,13 @@
+
+.classpath
+.project
+*.prefs
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/it.betacom/JDBCExample/pom.properties
+target/classes/META-INF/maven/it.betacom/JDBCExample/pom.xml
+/target/
+.dbeaver/project-settings.json
+.dbeaver/.credentials-config.json.bak
+*.bak
+.dbeaver/credentials-config.json
+.dbeaver/data-sources.json
